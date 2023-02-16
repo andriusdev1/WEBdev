@@ -1,0 +1,8 @@
+@function rem($pixels, $content: 16) {
+    @return ($pixels / $content) *1rem;
+}
+
+
+//h1 {font-size: rem(30);}
+
+//css-tricks.com snippets sass px - to em functions

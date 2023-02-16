@@ -1,0 +1,30 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "browser-sync": "^2.27.5",
+    "browserlist": "^1.0.1",
+    "cssnano": "^5.1.14",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "postcss": "^8.4.21",
+    "postcss-import": "^15.1.0",
+    "sass": "^1.56.2"
+  },
+  "description": ""
+}
